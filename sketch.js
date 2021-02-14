@@ -1,7 +1,7 @@
 let c2; 
 
 function setup() {
-	createCanvas(800, 800);
+	createCanvas(600, 600);
 	c2 = createGraphics(width, height);
 	// c2.background(0);
 }
